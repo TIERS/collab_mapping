@@ -1,6 +1,21 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Distributed Byzantine-Tolerant Collabarative Mapping | Gazebo Sim
 
+**Partition-Tolerant and Byzantine-Tolerant Decision-Making for Distributed Robotic Systems with IOTA and ROS 2**. Farhad Keramat, Jorge Peña Queralta, Tomi Westerlund [The paper is available in our website.](https://tiers.utu.fi/paper/queralta2020uwbdataset) and also in [arXiv](https://arxiv.org/abs/2208.13467). 
+
+If you find the code or data in this repository useful in your research, please cite our paper:
+
+  ```
+  @article{keramat2022partition, 
+        title="Partition-Tolerant and Byzantine-Tolerant Decision-Making for Distributed Robotic Systems with IOTA and {ROS} 2", 
+        author="Farhad Keramat and Jorge {Pe\~na Queralta} and Tomi Westerlund", 
+        journal="arXiv:2208.13467", 
+        publisher="arXiv", 
+        year="2022", 
+        doi="https://doi.org/10.48550/arXiv.2208.13467"
+  }
+  ```
+
 ## Description
 This ROS2 package provides a Gazebo simulation of our proposed Distributed Byzantine-Tolerant Collabarative Mapping smart contract. It is developed to demonstrate the applicabilty of collective decision making algorithm in the multi-robot system to the distributed ledger technology. This package is not intended to provide a state of the art collabarative mapping solution. 
 
