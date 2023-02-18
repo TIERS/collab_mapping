@@ -3,16 +3,14 @@
 
 **Partition-Tolerant and Byzantine-Tolerant Decision-Making for Distributed Robotic Systems with IOTA and ROS 2**. Farhad Keramat, Jorge Peña Queralta, Tomi Westerlund [The paper is available in our website.](https://tiers.utu.fi/paper/queralta2020uwbdataset) and also in [arXiv](https://arxiv.org/abs/2208.13467). 
 
-If you find the code or data in this repository useful in your research, please cite our paper:
+If you find the code or data in this repository useful in your research, [the related paper is available in our website](https://tiers.utu.fi/paper/xianjia2023loosely):
 
   ```
-  @article{keramat2022partition, 
-        title="Partition-Tolerant and Byzantine-Tolerant Decision-Making for Distributed Robotic Systems with IOTA and {ROS} 2", 
-        author="Farhad Keramat and Jorge {Pe\~na Queralta} and Tomi Westerlund", 
-        journal="arXiv:2208.13467", 
-        publisher="arXiv", 
-        year="2022", 
-        doi="https://doi.org/10.48550/arXiv.2208.13467"
+  @article{xianjia2023loosely, 
+      title="Loosely Coupled Odometry, {UWB} Ranging, and Cooperative Spatial Detection for Relative Monte-Carlo Multi-Robot Localization", 
+      author="Xianjia Yu and  Paola Torrico Mor\'on and  Sahar Salimpour and Jorge {Pe\~na Queralta} and Tomi Westerlund", 
+      journal="arXiv", 
+      year="2023"
   }
   ```
 
